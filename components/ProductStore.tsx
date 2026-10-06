@@ -24,11 +24,11 @@ const PRODUCTS: Product[] = [
     subtitle: '1 Month Supply',
     months: 1,
     bottles: 1,
-    originalPrice: 79.00,
+    originalPrice: 59.00,
     price: 49.00,
-    installment: '1x $49.00',
-    discount: '38% OFF',
-    benefits: ['1 Bottle of Extenze (60 caps)', 'Standard Shipping', '60-Day Guarantee'],
+    installment: 'Save $10.00',
+    discount: '17% OFF',
+    benefits: ['1 Bottle of Extenze (60 caps)', 'Standard Shipping', '67-Day Guarantee'],
   },
   {
     id: 'kit-3',
@@ -36,12 +36,12 @@ const PRODUCTS: Product[] = [
     subtitle: '3 Months Supply',
     months: 3,
     bottles: 3,
-    originalPrice: 237.00,
+    originalPrice: 177.00,
     price: 135.00,
-    installment: 'Save $102.00',
-    discount: '43% OFF',
+    installment: 'Save $42.00',
+    discount: '24% OFF',
     popular: true,
-    benefits: ['3 Bottles of Extenze', 'Free Express Shipping', 'Free Male Vitality E-book', '60-Day Guarantee'],
+    benefits: ['3 Bottles of Extenze', 'Free Express Shipping', 'Free Male Vitality E-book', '67-Day Guarantee'],
   },
   {
     id: 'kit-5',
@@ -49,11 +49,11 @@ const PRODUCTS: Product[] = [
     subtitle: '6 Bottles Supply',
     months: 6,
     bottles: 6,
-    originalPrice: 474.00,
+    originalPrice: 354.00,
     price: 234.00,
-    installment: 'Best Value Deal',
-    discount: '50% OFF',
-    benefits: ['6 Bottles of Extenze', 'Free Express Shipping', 'Priority VIP Support', 'Ironclad 60-Day Guarantee'],
+    installment: 'Save $120.00',
+    discount: '34% OFF',
+    benefits: ['6 Bottles of Extenze', 'Free Express Shipping', 'Priority VIP Support', 'Ironclad 67-Day Guarantee'],
   },
 ];
 
@@ -142,9 +142,9 @@ export default function ProductStore() {
               <ShieldCheck className="w-8 h-8 text-amber-400" />
             </div>
             <div>
-              <h4 className="text-lg font-bold text-white">60-Day Money-Back Guarantee</h4>
+              <h4 className="text-lg font-bold text-white">67-Day Money-Back Guarantee</h4>
               <p className="text-xs sm:text-sm text-slate-400 mt-1">
-                If you do not experience noticeable improvements in energy and performance within 60 days, we will refund 100% of your investment with zero hassle.
+                If you do not experience noticeable improvements in energy and performance within 67 days, we will refund 100% of your investment with zero hassle.
               </p>
             </div>
           </div>

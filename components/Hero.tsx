@@ -64,7 +64,7 @@ export default function Hero({ onExploreProducts }: HeroProps) {
               </div>
               <div className="flex items-center gap-2.5 text-slate-300 text-xs font-medium">
                 <Award className="w-5 h-5 text-amber-400 shrink-0" />
-                <span>60-Day Money-Back Guarantee</span>
+                <span>67-Day Money-Back Guarantee</span>
               </div>
               <div className="flex items-center gap-2.5 text-slate-300 text-xs font-medium">
                 <CheckCircle className="w-5 h-5 text-amber-400 shrink-0" />
@@ -94,8 +94,8 @@ export default function Hero({ onExploreProducts }: HeroProps) {
                     </div>
                     
                     <div className="z-10 py-4">
-                      <div className="w-20 h-28 mx-auto rounded-lg bg-gradient-to-tr from-amber-600 via-amber-500 to-amber-300 shadow-xl flex items-center justify-center text-slate-950 font-black text-2xl tracking-tighter border border-amber-200">
-                        EX+
+                      <div className="w-24 h-24 mx-auto rounded-lg bg-gradient-to-tr from-amber-600 via-amber-500 to-amber-300 shadow-xl flex items-center justify-center text-slate-950 font-black text-sm tracking-tighter border border-amber-200 px-2 text-center">
+                        Extenze
                       </div>
                       <span className="block text-xs font-bold text-white mt-3 tracking-wide">PREMIUM FORMULA</span>
                     </div>
@@ -111,9 +111,9 @@ export default function Hero({ onExploreProducts }: HeroProps) {
                 <p className="text-xs text-slate-400 mb-6">Advanced dietary supplement for peak performance and vitality support.</p>
 
                 <div className="flex items-center justify-center gap-3 mb-6">
-                  <span className="text-slate-500 line-through text-sm">$79.00</span>
+                  <span className="text-slate-500 line-through text-sm">$59.00</span>
                   <span className="text-2xl font-black text-amber-400">$49.00</span>
-                  <span className="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 font-semibold">38% OFF</span>
+                  <span className="text-xs px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-400 border border-emerald-500/30 font-semibold">Save $10.00</span>
                 </div>
 
                 <a

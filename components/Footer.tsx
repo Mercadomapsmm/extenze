@@ -47,7 +47,7 @@ export default function Footer() {
               </div>
               <div className="flex items-center gap-2">
                 <Award className="w-4 h-4 text-amber-400 shrink-0" />
-                <span>60-Day Money-Back Guarantee</span>
+                <span>67-Day Money-Back Guarantee</span>
               </div>
             </div>
           </div>

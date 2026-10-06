@@ -26,8 +26,8 @@ const FAQS: FaqItem[] = [
     answer: 'Yes, Extenze is manufactured in FDA-registered facilities under strict GMP (Good Manufacturing Practice) standards.',
   },
   {
-    question: 'How does the 60-day guarantee work?',
-    answer: 'If for any reason you are not 100% satisfied with your results within 60 days of purchase, simply contact customer support for a full refund.',
+    question: 'How does the 67-day guarantee work?',
+    answer: 'If for any reason you are not 100% satisfied with your results within 67 days of purchase, simply contact customer support for a full refund.',
   },
 ];
 
